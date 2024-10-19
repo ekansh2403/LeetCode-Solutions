@@ -12,7 +12,7 @@ public:
             }
             return a.first < b.first; 
         };
-        priority_queue<pair<int,char>,vector<pair<int, char>>,decltype(comp)>pq;
+        priority_queue<pair<int,char>,vector<pair<int, char>>,decltype(comp)>pq(comp);
         for(auto it:mpp){
             pq.push({it.second,it.first});
         }
@@ -23,6 +23,7 @@ public:
             }
             pq.pop();
         }
+        cout<<ans<<endl;
         return ans;
     }
 };
