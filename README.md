@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Tree
 |  |
 | ------- |
