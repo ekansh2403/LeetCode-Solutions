@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
