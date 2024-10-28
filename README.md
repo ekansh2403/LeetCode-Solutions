@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0792-binary-search](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -181,5 +182,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 <!---LeetCode Topics End-->
