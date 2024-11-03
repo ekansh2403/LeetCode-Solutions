@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0434-number-of-segments-in-a-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0812-rotate-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
