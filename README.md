@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0792-binary-search](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1063-best-sightseeing-pair](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1063-best-sightseeing-pair](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
