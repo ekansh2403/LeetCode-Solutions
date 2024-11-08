@@ -30,7 +30,7 @@ public:
     //         ans[i]=bestK;
     //         currXor^=nums.back();
     //         nums.pop_back();
-    //    }
+    //    } 
     //    return ans;
     for(int i=0;i<n;i++){
         ans.push_back(currXor^maxK);
