@@ -32,10 +32,10 @@ public:
     //         nums.pop_back();
     //    } 
     //    return ans;
-    for(int i=0;i<n;i++){
+    for(int i=n-1;i>=0;i--){
         ans.push_back(currXor^maxK);
-        currXor^=nums.back();
-        nums.pop_back();
+        currXor^=nums[i];
+        // nums.pop_back();
         
     }
     return ans;
