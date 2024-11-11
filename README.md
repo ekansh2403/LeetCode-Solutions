@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0670-maximum-swap](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2716-prime-subtraction-operation](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 ## Brainteaser
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 ## String Matching
 |  |
 | ------- |
@@ -238,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
