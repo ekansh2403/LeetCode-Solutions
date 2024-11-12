@@ -9,7 +9,7 @@ public:
             return a[0]<b[0];
         });
 
-        //change the beauty with maximum beauty
+        //change the other beauty with the with maximum beauty
         int mxb=items[0][1];
         int n=items.size();
         for(int i=0;i<n;i++){
@@ -27,20 +27,34 @@ public:
         vector<int>res;
         int m=q.size();
         for(int i=0;i<m;i++){
-            int l=0;
-            int r=n-1;
-            int ans=0;
-            while(l<=r){
-                int mid=r+(l-r)/2;
-                if(items[mid][0]<=q[i]){
-                    ans=max(ans,items[mid][1]);
-                    l=mid+1;
+            // int l=0;
+            // int r=n-1;
+            // int ans=0;
+            // while(l<=r){
+            //     int mid=r+(l-r)/2;
+            //     if(items[mid][0]<=q[i]){
+            //         ans=max(ans,items[mid][1]);
+            //         l=mid+1;
+            //     }
+            //     else{
+            //         r=mid-1;
+            //     }
+            // }
+            // res.push_back(ans);
+            auto  ub=upper_bound(items.begin(),items.end(),vector<int>{q[i],INT_MAX}, [](const vector<int>& a, const vector<int>& b) {
+                          return a[0] < b[0];
+                      });
+
+                if(ub!=items.begin()){
+                    --ub;
+                    res.push_back((*ub)[1]);
+
                 }
                 else{
-                    r=mid-1;
+                    res.push_back(0);
                 }
-            }
-            res.push_back(ans);
+            
+
         }
         return res;
         
