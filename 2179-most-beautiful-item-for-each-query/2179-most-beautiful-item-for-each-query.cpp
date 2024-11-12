@@ -41,7 +41,7 @@ public:
             //     }
             // }
             // res.push_back(ans);
-            auto  ub=upper_bound(items.begin(),items.end(),vector<int>{q[i],INT_MAX}, [](const vector<int>& a, const vector<int>& b) {
+            auto  ub=upper_bound(items.begin(),items.end(),vector<int>{q[i],0}, [](const vector<int>& a, const vector<int>& b) {
                           return a[0] < b[0];
                       });
 
