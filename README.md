@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Tree
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -257,5 +261,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
