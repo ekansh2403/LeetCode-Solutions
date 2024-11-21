@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Queue
