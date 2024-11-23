@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1972-rotating-the-box](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1972-rotating-the-box](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Queue
 |  |
