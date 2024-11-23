@@ -34,24 +34,37 @@ public:
         //stone ko->space mein rakh do->stone ki jagah space bana do
 
         for(int j=0;j<n;j++){
+            int space=m-1;
             for(int i=m-1;i>=0;i--){
-                if(res[i][j]=='.'){
-                    int row=-1;
-                    for(int k=i-1;k>=0;k--){
-                        if(res[k][j]=='*'){
-                            break;
-                        }else if(res[k][j]=='#'){
-                            row=k;
-                            break;
-                        }
-                    }
-                    if(row!=-1){
-                        res[i][j]='#';
-                        res[row][j]='.';
-                    }
+                // if(res[i][j]=='.'){
+
+                    // int row=-1;
+                    // for(int k=i-1;k>=0;k--){
+                    //     if(res[k][j]=='*'){
+                    //         break;
+                    //     }else if(res[k][j]=='#'){
+                    //         row=k;
+                    //         break;
+                    //     }
+                    // }
+                    // if(row!=-1){
+                    //     res[i][j]='#';
+                    //     res[row][j]='.';
+                    // }
+             
+                if(res[i][j]=='*'){
+                    space=i-1;
+                    continue;
                 }
+                if(res[i][j]=='#'){
+                    res[i][j]='.';
+                    res[space][j]='#';
+                    space--;
+                }
+
+               }
             }
-        }
+        
 
 
 
