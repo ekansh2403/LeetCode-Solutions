@@ -17,7 +17,9 @@ using ll =long long;
                 if(matrix[i][j]<0){
                     cnt++;
                 }
-                small= min(small,abs(matrix[i][j]));
+                if(abs(matrix[i][j])<small){
+                    small=abs(matrix[i][j]);
+                }
 
             }
         }
