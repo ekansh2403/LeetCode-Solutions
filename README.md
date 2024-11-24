@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2089-maximum-matrix-sum](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Stack
