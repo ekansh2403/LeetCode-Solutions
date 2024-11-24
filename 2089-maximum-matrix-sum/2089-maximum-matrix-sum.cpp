@@ -20,6 +20,7 @@ using ll =long long;
                 if(abs(matrix[i][j])<small){
                     small=abs(matrix[i][j]);
                 }
+                // small=min(small,abs(matrix[i][j]));
 
             }
         }
