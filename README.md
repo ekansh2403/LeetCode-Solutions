@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0434-number-of-segments-in-a-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
