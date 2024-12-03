@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3188-find-champion-i](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3188-find-champion-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3394-minimum-array-end) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Enumeration
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Bucket Sort
 |  |
 | ------- |
