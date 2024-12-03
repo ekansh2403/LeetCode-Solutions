@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0670-maximum-swap](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0670-maximum-swap) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0787-sliding-puzzle](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0898-transpose-matrix](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
