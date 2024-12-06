@@ -9,9 +9,10 @@ public:
                 continue;
 
             }
-            if(maxSum-i<0)return cnt;
-            maxSum-=i;
-            cnt++;
+            if(sum+i<=maxSum){
+                sum+=i;
+                cnt++;
+            }
         }
         return cnt;
     }
