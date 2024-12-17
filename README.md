@@ -440,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
