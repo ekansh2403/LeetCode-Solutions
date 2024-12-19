@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0670-maximum-swap](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Prefix Sum
 |  |
