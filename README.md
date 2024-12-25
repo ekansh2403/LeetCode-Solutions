@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0812-rotate-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0474-ones-and-zeroes](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [1013-fibonacci-number](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
