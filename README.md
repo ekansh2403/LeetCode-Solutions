@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
