@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0670-maximum-swap](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+| [1013-fibonacci-number](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [2716-prime-subtraction-operation](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Simulation
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -467,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
