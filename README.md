@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0474-ones-and-zeroes](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
