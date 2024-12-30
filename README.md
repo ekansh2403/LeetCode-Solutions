@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3654-minimum-array-sum](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3654-minimum-array-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-count-ways-to-build-good-strings](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3654-minimum-array-sum](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3654-minimum-array-sum) |
 ## Matrix
 |  |
 | ------- |
