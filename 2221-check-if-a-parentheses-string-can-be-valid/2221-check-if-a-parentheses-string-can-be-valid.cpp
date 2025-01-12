@@ -3,7 +3,7 @@ public:
     bool canBeValid(string s, string locked) {
         int n = s.length();
 
-        if(n%2 != 0) { //odd
+        if(n%2 != 0) { 
             return false;
         }
 
@@ -32,7 +32,7 @@ public:
         }
 
 
-        return open.empty(); //true
+        return open.empty(); 
 
     }
 };
