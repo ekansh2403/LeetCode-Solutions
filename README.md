@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0407-trapping-rain-water-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0474-ones-and-zeroes](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0407-trapping-rain-water-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0407-trapping-rain-water-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0898-transpose-matrix](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
