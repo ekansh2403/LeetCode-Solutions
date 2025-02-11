@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/ekansh2403/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Tree
